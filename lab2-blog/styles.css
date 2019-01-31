@@ -9,7 +9,7 @@ body {
     /*background-color: rgb(67, 107, 169);*/
     background: 
         linear-gradient(rgba(255,255,255, .15), rgba(211,211,211, .01)),
-        url("BatmanBG.jpg");
+        url("images/BatmanBG.jpg");
     background-attachment: fixed;
     font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
